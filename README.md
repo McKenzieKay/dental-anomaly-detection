@@ -1,12 +1,3 @@
-# dental-anomaly-detection
-
-
-#edits
-
-Anna!!!!!!!!
-
-This is my edit - Aliya
-
-This is my edit - Austin
+In dentistry, AI-driven diagnoses are rare. This technological void can lead to dentist fatigue, resulting in lower quality of patient care. This code alleviates these issues with a multi-label classification model that automatically detects anomalies in dental panoramic X-rays, thus increasing the speed and accuracy of dentists’ diagnoses. The model is an ensemble of convolutional neural networks with various balancing techniques applied to the dataset, transfer learning from ResNet50, and uses class-weighted voting to determine the final predictions. The model achieved results of 60% precision, 57% percent recall, and 57% F1-score using the mean scores across the top performing classes.
 
 
